@@ -1,2 +1,2 @@
-# responsive
-responsive webdesign project
+# Responsive
+Responsive webdesign project
